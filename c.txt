@@ -1,0 +1,6 @@
+Noi dung C
+
+cap nhap boi MacOS
+cap nhap boi Windows
+
+2020
